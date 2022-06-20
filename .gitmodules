@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "standartox"]
+	path = standartox
+	url = https://github.com/andschar/standartox
+	shallow = true
+	registered = true
